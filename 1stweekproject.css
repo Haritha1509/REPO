@@ -1,0 +1,15 @@
+body{	
+    background-image:url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin:0; 
+}
+h1 {color: black;}
+h2{color:blue;
+   text-align:left;
+ }
+h3 {color:blue;
+    font-family:serif;
+    border:2px solid black;
+    }
